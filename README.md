@@ -2,7 +2,8 @@
 
 # Dataset Declaration
 
-This dataset is independently collected by us and has been utilized in our paper titled "《GraphTunnel: Robust DNS Tunnel Detection Based  on DNS Recursive Resolution Graph》."
+This dataset is independently collected by us and has been utilized in our paper titled "[《GraphTunnel: Robust DNS Tunnel Detection Based  on DNS Recursive Resolution Graph》](https://ieeexplore.ieee.org/document/10636232)."
+
 
 ## Dataset Content
 
@@ -27,3 +28,6 @@ To reduce upload size limitations, we have segmented some large PCAP files. The 
 ## Usage
 
 You can download from here: [ DNS Tunnel Datasets](https://github.com/ggyggy666/DNS-Tunnel-Datasets.git).
+
+## Licensed
+If you want to use this dataset or refer to our paper, please cite the dataset and our paper.
